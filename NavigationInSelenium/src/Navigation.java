@@ -14,7 +14,6 @@ public class Navigation {
 		Thread.sleep(5000);
 		driver.navigate().back();
 		driver.navigate().refresh();
-		Thread.sleep(5000);
 	}
 
 }
